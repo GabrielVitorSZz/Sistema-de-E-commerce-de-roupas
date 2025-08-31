@@ -1,6 +1,6 @@
-# 🛍️ E-commerce com React e TypeScript
+# 🛍️ E-commerce 
 
-Este é um projeto de front-end de e-commerce, desenvolvido com **React** e **TypeScript**, que demonstra a criação de um catálogo de produtos interativo com carrinho de compras. Ele foi arquitetado para ser modular e fácil de manter, aproveitando a tipagem estática do TypeScript e a velocidade de desenvolvimento do Vite.
+Este é um projeto full-stack e-commerce, que demonstra a criação de um catálogo de produtos interativo com carrinho de compras. Ele foi arquitetado para ser modular e fácil de manter, aproveitando a tipagem estática do TypeScript e a velocidade de desenvolvimento do Vite.
 
 ### ✨ Funcionalidades Principais
 
@@ -24,17 +24,17 @@ Exibindo o catálogo de produtos e opções de filtro.
 #### Detalhes do Produto
 
 Ao clicar em um produto, a aplicação pode exibir seus detalhes (simulado).
-![Descrição Detalhada do Produto](images/descricao_produto.png)
+![Descrição Detalhada do Produto](images/Descricao_produto.png)
 
 #### Busca de Produtos
 
 A funcionalidade de busca permite filtrar produtos pelo termo digitado.
-![Barra de Pesquisa de Produtos](images/pesquisa_do_produto.png)
+![Barra de Pesquisa de Produtos](images/pesquisa_produto.png)
 
 #### Carrinho de Compras
 
 Adicione produtos ao carrinho e gerencie as quantidades.
-![Carrinho de Compras](images/compra.png)
+![Carrinho de Compras](images/Compra.png)
 
 #### Tela de Login
 
@@ -99,14 +99,3 @@ Para rodar este projeto na sua máquina local, siga os passos abaixo:
 ├── tsconfig.json         # Configuração do TypeScript
 └── vite.config.ts        # Configuração do Vite
 ```
-
------
-
-**Passos para você:**
-
-1.  **Copie todo o conteúdo** do `README.md` fornecido acima.
-2.  No GitHub, **edite** seu `README.md` existente (clicando no ícone de lápis).
-3.  **Cole o novo conteúdo**, substituindo o antigo.
-4.  **Faça o commit** das mudanças.
-
-Com isso, suas imagens deverão aparecer corretamente no README do seu repositório, tornando-o muito mais visual e explicativo\!
